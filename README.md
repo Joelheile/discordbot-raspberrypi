@@ -98,6 +98,10 @@ Install latest version of the Discord library for Python (Discord.Py)
 
 ```sudo python3 -m pip install -U discord.py[voice]```
 
+
+### Build the circuit for the LED light
+![Picture example](https://i0.wp.com/joel.business/wp-content/uploads/2021/01/Circuit-drawing.png?resize=768%2C267&ssl=1)
+
 ## Run the bot
 
 1. Move to folder
