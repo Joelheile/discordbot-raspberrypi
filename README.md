@@ -106,15 +106,17 @@ Install latest version of the Discord library for Python (Discord.Py)
 
 1. Move to folder
   ```cd ~/isOnline_bot```
+  
+2. Change your Token
 
-2. Run python script
+3. Run python script
    ```python3 bot.py```
   
-2. Go to your Discord Channel and type in “?membercount” and if someone is in a channel it will glow up 🙂
+4. Go to your Discord Channel and type in “?membercount” and if someone is in a channel it will glow up 🙂
 
 Side note: Make shure you use a text channel which is empty or not used, because thebot will spam it
 
-3. Have some fun with this bot and be updated everytime someone is online!
+5. Have some fun with this bot and be updated everytime someone is online!
 
 
 
